@@ -1,0 +1,14 @@
+layout_spectrum: 0.3189964
+color:
+  saturation: 0.6708902
+  lightness: 0.5914281
+  brandStrength: 0.4587814
+  brandColors:
+    - '#FFFFFF'
+    - '#717171'
+    - '#DD9F18'
+    - '#110C0E'
+    - '#A5A5A5'
+  rhythmicContrast: 0.1519563
+typography_spectrum: 0.9265233
+name: TheGridTesting
